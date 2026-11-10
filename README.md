@@ -40,7 +40,7 @@ Clothing Shop is a mobile application designed to provide users with an interact
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/amirrezanadali01/ClothingShop.git
    ```
 
 2. Navigate to the project directory:
